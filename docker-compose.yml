@@ -1,7 +1,5 @@
 version: '3'
 volumes:
-  puska-db-ops:
-  puska-db-dwh:
   puska-zookeeper-data:
   puska-zookeeper-log:
   puska-zookeeper-secrets:
